@@ -4,7 +4,7 @@ Homepage made with HTML5 UP (Editorial)
 http://www.meingipser.ch/
 
 
-## Credits:
+## Credits
 
 	Design: HTML5 UP
 	Template: HTML5 UP
