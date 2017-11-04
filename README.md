@@ -1,23 +1,14 @@
 # meingipser
 
-Homepage made with HTML5 UP (Editorial)  
-http://www.meingipser.ch/
+Static [website](http://www.meingipser.ch/) made with HTML5 UP.
 
 
 ## Credits
 
-	Design: HTML5 UP
-	Template: HTML5 UP
+Template:   
+&nbsp;&nbsp;&nbsp;&nbsp;Editorial by [HTML5 UP](https://html5up.net/)
 	
-	Demo Images:
-		Unsplash (unsplash.com)
+Icons:  
+&nbsp;&nbsp;&nbsp;&nbsp;[Font Awesome](fortawesome.github.com/Font-Awesome)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
