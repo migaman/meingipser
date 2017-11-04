@@ -9,6 +9,6 @@ Template:
 &nbsp;&nbsp;&nbsp;&nbsp;Editorial by [HTML5 UP](https://html5up.net/)
 	
 Icons:  
-&nbsp;&nbsp;&nbsp;&nbsp;[Font Awesome](fortawesome.github.com/Font-Awesome)
+&nbsp;&nbsp;&nbsp;&nbsp;[Font Awesome](http://fontawesome.io/)
 
 
